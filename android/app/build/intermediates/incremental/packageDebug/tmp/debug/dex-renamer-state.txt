@@ -1,0 +1,4 @@
+#Sat Jun 08 14:46:45 GFT 2019
+base.0=D\:\\dev\\projetos\\base\\firebaseAuth\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
